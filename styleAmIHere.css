@@ -1,0 +1,74 @@
+#explication1 {
+	position: relative;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: justify;
+	color: #F8F8FF;
+
+}
+
+#explication2 {
+	position: relative;
+	margin-right: 300px;
+	margin-left: 300px;
+	text-align: justify;
+	color: #F8F8FF;
+}
+
+
+
+#imageTitre {
+  width: 300px;
+  height: 300px;
+  position: relative;
+  margin-left: 390px;
+}
+
+#titre {
+	
+	position: relative;
+	margin-left: 650px;
+	color: #F8F8FF;
+}
+
+#footer {
+	position: relative;
+	margin-left: 80px;
+	margin-top: 50px;
+	text-align: center;
+	color: #808080;
+	
+}
+
+#img1{
+	position: relative;
+	border-radius: 8px;
+	width: 300px;
+	height: 450px;
+	padding: 5px;
+	margin-left: 200px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#img2{
+	position: relative;
+	border-radius: 8px;
+	width: 300px;
+	height: 450px;
+	padding: 5px;
+	margin-left: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#img3 {
+	position: relative;
+	border-radius: 8px;
+	width: 300px;
+	height: 450px;
+	padding: 5px;
+	margin-left: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}

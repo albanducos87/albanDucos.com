@@ -1,0 +1,49 @@
+#explication1 {
+	position: relative;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: justify;
+	color: #F8F8FF;
+
+}
+
+#explication2 {
+	position: relative;
+	margin-right: 300px;
+	margin-left: 300px;
+	text-align: justify;
+	color: #F8F8FF;
+}
+
+#img1{
+	position: relative;
+	border-radius: 8px;
+	width: 800px;
+	height: 400px;
+	padding: 5px;
+	margin-left: 360px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#imageTitre {
+  width: 300px;
+  height: 200px;
+  position: relative;
+  margin-left: 390px;
+}
+
+#titre {
+	
+	position: relative;
+	margin-left: 600px;
+	color: #F8F8FF;
+}
+
+#footer {
+	position: relative;
+	margin-left: 80px;
+	margin-top: 50px;
+	text-align: center;
+	color: #808080;
+	
+}
